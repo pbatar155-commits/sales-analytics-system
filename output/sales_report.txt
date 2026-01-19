@@ -1,7 +1,7 @@
 ==================================================
               SALES ANALYTICS REPORT              
 ==================================================
-Generated: 2026-01-19 23:40:56
+Generated: 2026-01-20 00:03:20
 Records Processed: 70
 
 --------------------------------------------------
@@ -43,6 +43,6 @@ Low Performing Products: None found below threshold.
 Total Products Processed : 70
 Successfully Enriched    : 0
 Enrichment Success Rate  : 0.00%
-Products Not Found in API: ['P107', 'P102', 'P104', 'P106', 'P108'] ...
+Products Not Found in API: ['P106', 'P108', 'P103', 'P110', 'P105'] ...
 ==================================================
 END OF REPORT
