@@ -10,7 +10,23 @@ This is a Python-based data analytics system designed to process sales records, 
 - **Reporting**: Generates a detailed text-based sales report (`output/sales_report.txt`).
 
 ## Project Structure
-sales-analytics-system/ │ ├── data/ │ ├── sales_data.txt # Raw input data │ └── enriched_sales_data.txt # Output data with API details │ ├── output/ │ └── sales_report.txt # Final business report │ ├── utils/ │ ├── file_handler.py # Handles file reading/encoding │ ├── data_processor.py # core logic for parsing & analysis │ ├── api_handler.py # Fetches data from DummyJSON API │ └── report_generator.py # Creates formatted text reports │ ├── main.py # Main entry point of the application └── README.md # Project documentation
+sales-analytics-system/
+│
+├── data/
+│   ├── sales_data.txt          # Raw input data
+│   └── enriched_sales_data.txt # Output data with API details
+│
+├── output/
+│   └── sales_report.txt        # Final business report
+│
+├── utils/
+│   ├── file_handler.py         # Handles file reading/encoding
+│   ├── data_processor.py       # core logic for parsing & analysis
+│   ├── api_handler.py          # Fetches data from DummyJSON API
+│   └── report_generator.py     # Creates formatted text reports
+│
+├── main.py                     # Main entry point of the application
+└── README.md                   # Project documentation
 
 ## Requirements
 - Python 3.x
